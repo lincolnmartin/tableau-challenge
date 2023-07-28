@@ -5,6 +5,8 @@ Tableau Challenge - Citi Bike Analysis
 1.	Top/Bottom 10 Stations
 
 Based on the top/bottom 10 station charts, it can be concluded that both the most preferred start and stop bike positions were at Grove St. Path. Alternatively, the least preferred start position was at Leonard Gordon Park, while the least preferred end position was at Liberty St. and Broadway.
+
+When looking at the map, there appears to be a higher concentration of volume records for Manhattan than any other areas.
  
 2.	Peak Summer Hours
 
